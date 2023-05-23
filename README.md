@@ -1,5 +1,5 @@
 # StudentApi
-I have created this api using springboot and tested it by using boomerang on microsoft edge.It contains the CRUD Operations.
+I have created this api using springboot and tested it by using boomerang on microsoft edge. It contains the CRUD Operations.
 
 ## It contains the following functions:
 1. Get All Students
